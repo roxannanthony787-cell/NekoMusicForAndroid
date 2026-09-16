@@ -11,7 +11,7 @@ plugins {
 }
 
 android {
-    namespace = "com.neko.music"
+    namespace = "com.ting.music"
     compileSdk = 37
 
     externalNativeBuild {
@@ -22,7 +22,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.neko.music"
+        applicationId = "com.ting.music"
         minSdk = 23
         targetSdk = 37
         versionCode = 74
