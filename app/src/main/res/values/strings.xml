@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Neko歌姬计划</string>
+    <string name="app_name">婷听音悦</string>
     <string name="widget_description">Neko歌姬计划桌面播放器喵</string>
     <string name="widget_previous_desc">上一曲喵</string>
     <string name="widget_play_pause_desc">播放或暂停喵</string>
